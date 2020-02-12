@@ -1,0 +1,33 @@
+<!DOCTYPE html>  
+<html lang="esp">  
+<head>
+<meta charset="utf-8" />
+<title>
+Titulo
+</title>
+<meta name="description" content="Mi primera Pagina Web de tarot" />
+<meta name="author" content="Rocio" />
+<meta name="keyword" content="tarot" />
+<link rel="stylesheet" href="paginadetarot.css">
+<script data-ad-client="ca-pub-7196084615577401" async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+</head>
+<body style="margin-left:290px;margin-right:290px;background-image: url(https://static.t13.cl/images/sizes/1200x675/1491411606-95470443gettyimages-636753858.jpg)">
+
+
+<header style="background:#006633;color:white">
+
+<h1 style="font-family:cursive">
+Tarot Lunar:</h1>
+<img alt="Resultado de imagen de imagenes celtas" class="n3VNCb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrO_weXzR9OV-TQXqXHlmk5ySIh_iFm6lSAqu7Y-J9ZJc2wikJ" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 383px; height: 146.498px; margin: 25.3012px 0px;"><img alt="Resultado de imagen de imagenes celtas" class="n3VNCb" src="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcSrO_weXzR9OV-TQXqXHlmk5ySIh_iFm6lSAqu7Y-J9ZJc2wikJ" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 383px; height: 146.498px; margin: 25.3012px 0px;">
+<nav>
+<ul>
+<li>Principal</li><li>Sobre el tarot</li><li>Sobre el Eneagrama</li><li>Sobre el naipe español</li><li>Costos y contacto</li>
+</ul>
+</nav>
+<h2>Consulta profesional usando el tarot Waite Rider, Tarot osho, Naipe español y Marsella </h2>
+<h3>wsp: +56974369587</h3>
+<img alt="Resultado de imagen de wallpaper" class="n3VNCb" src="https://images.unsplash.com/photo-1538370965046-79c0d6907d47?ixlib=rb-1.2.1&amp;w=1000&amp;q=80" data-noaft="1" jsname="HiaYvf" jsaction="load:XAeZkd;" style="width: 383px; height: 255.844px; margin: 0px;">
+
+</header>
+</body>
+</html>
